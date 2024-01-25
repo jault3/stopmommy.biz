@@ -1,7 +1,7 @@
 import Typography from '@mui/material/Typography';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 
-export default function ProTip() {
+export default function Footer() {
   return (
     <Typography sx={{ mt: 6, mb: 3, color: 'text.secondary' }}>
         {'Show some'}
